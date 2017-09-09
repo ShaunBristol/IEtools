@@ -1,2 +1,3 @@
-# IEtools
-Python tools for information equilibrium models
+# Scikit: Information Equilibrium
+
+Information Equilibrium with the scikit interface. Based on IETools by Jasom Smith.
