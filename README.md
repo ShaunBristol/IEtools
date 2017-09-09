@@ -1,3 +1,3 @@
-# Scikit: Information Equilibrium
+# scikit-information equilibrium
 
-Information Equilibrium with the scikit interface. Based on IETools by Jasom Smith.
+Information equilibrium with the scikit interface. Based on IETools by Jason Smith.
